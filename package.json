@@ -2,7 +2,7 @@
   "name": "express-example",
   "version": "1.0.0",
   "scripts": {
-    "dev": "nodemon main.js",
+    "dev": "nodemon main.js --ext js,ejs",
     "start": "node main.js"
   },
   "license": "UNLICENSE",
